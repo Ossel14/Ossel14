@@ -36,7 +36,7 @@ I have experience building backend systems and I am continuously improving my sk
 ### 💻 Programming & Frameworks
 - PHP (Laravel – **Intermediate**)
 - Java (Spring Boot – **Intermediate**)
-- - Python (FastApi – **Intermediate**)
+- Python (FastApi – **Intermediate**)
 - JavaScript (ES6+)
 - Python
 - C++
